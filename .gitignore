@@ -1,0 +1,30 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
+
+# Temporary or backup files
+*.tmp
+*.bak
+postgres_data/
+
+# IDE-specific settings
+.vscode/
+.idea/
+build/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env
+.env.local
+
+# Miscellaneous
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
